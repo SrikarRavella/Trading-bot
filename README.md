@@ -1,4 +1,4 @@
-# Navigating-The-Financial-Markets-ML-Powered-Stock-Trading-and-Portfolio-Management
+# Trading Bot
 Welcome to our algorithmic trading repository, where we've meticulously programmed trading algorithms using Python, a versatile and potent programming language. Our primary objective is to provide a comprehensive platform tailored for automated trading within the forex market.
 
 Incorporating the OANDA broker's APIs into our system, we have streamlined the process of accessing market data and executing trades seamlessly from our Python environment. This integration empowers us to harness real-time market data to make well-informed trading decisions.
